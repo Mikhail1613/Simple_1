@@ -1,0 +1,241 @@
+@media screen and (max-width: 1920px) {
+    .slide-content{
+        font-size: 15px;
+        padding-top: 250px !important;
+    }
+
+}
+@media screen and (max-width: 1199px) {
+
+    .about{
+        margin: 0;
+    }
+
+    .about__image{
+        text-align: center;
+    }
+
+    .about__content  {
+        text-align: center;
+    }
+
+    .single__content{
+        display: block;
+        text-align: center;
+        width: auto;
+    }
+
+    .icon{
+        padding: 10px;
+        width: auto;
+        float: none;
+        font-size: 20px;
+    }
+
+    .tab__content{
+        display: block;
+        background-color: #FFFFFF;
+    }
+
+    .tab__img{
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+
+    .tab__single{
+        width: auto;
+        text-align: center;
+        padding-top: 25px;
+
+    }
+
+    .work__items{
+
+        width: auto;
+        margin: 0 auto;
+        flex: none;
+        padding: 0;
+    }
+
+    .contact__text{
+        text-align: center;
+    }
+
+
+    .card {
+        width: 19rem;
+    }
+
+
+    .pricing__item .card {
+        width: 14rem
+    }
+
+    .team__item .work__items {
+        text-align: center;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .team__item {
+        justify-content: center;
+    }
+
+
+}
+
+@media screen and (max-width: 1024px) {
+
+    .pricing__item .card {
+        width: 14rem
+    }
+}
+
+
+@media screen and (max-width: 991px){
+    .fun__fact p {
+        font-size: 15px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .card {
+        width: 16rem;
+    }
+
+    .pricing__item .card {
+        width: 16rem
+    }
+
+    .card h4 {
+        text-transform: uppercase;
+        color: #0b0b0b;
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .portfolio__nav li {
+        margin-left: 0px;
+    }
+
+    .team__item .work__items {
+        text-align: center;
+        margin-left: 0px;
+
+    }
+
+    @media screen and (max-width: 480px) {
+
+        .container-fluid .slide-content h2 {
+            font-size: 38px;
+
+        }
+
+        .flex {
+            display: block;
+        }
+
+        .portfolio__nav li {
+            margin-left: 0px;
+        }
+
+        .skill__title h2 {
+            padding-top: 35px;
+            font-size: 25px;
+        }
+
+        .space__text__top, .flex {
+            display: flex;
+        }
+
+        .call__text p {
+            font-size: 17px;
+        }
+
+    }
+
+
+
+
+
+    @media screen and (max-width: 320px), (max-width: 360px), (max-width: 375px),(max-width: 412px), (max-width: 414px) {
+        .container-fluid .slide-content h2 {
+            font-size: 28px;
+
+        }
+
+        .about__image, img {
+            width: 98%;
+            margin: 0 auto;
+        }
+
+        .slide-content, h3 {
+            font-size: 21px;
+        }
+
+        .flex {
+            display: block;
+
+        }
+
+        .team__item .work__items {
+            text-align: center;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        .section__big {
+            padding: 50px 0;
+        }
+
+        .single__content {
+            margin-right: 0px;
+        }
+
+        .skill__title h2 {
+            padding-top: 35px;
+            font-size: 25px;
+        }
+
+        .portfolio__nav .navbar {
+            float: left;
+        }
+
+        .portfolio__nav li {
+            margin-left: 0px;
+        }
+
+        .card {
+            width: 19rem;
+        }
+
+        .call__text p {
+            font-size: 14px;
+        }
+
+        .call__text h4 {
+            font-size: 20px;
+        }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
